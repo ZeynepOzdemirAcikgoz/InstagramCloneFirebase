@@ -7,7 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.886538878721-d07g2c17933g301vtf3b500j304rol37</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDHoYmrtiUr0nHcJtiiYfLm7zvMBlMzivk</string>
+	<string>AIzaSyBggku-MG7Xnki245dToB699xoWb4DoJIA</string>
 	<key>GCM_SENDER_ID</key>
 	<string>886538878721</string>
 	<key>PLIST_VERSION</key>
@@ -19,15 +19,15 @@
 	<key>STORAGE_BUCKET</key>
 	<string>instafirebaseclone-cd237.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:886538878721:ios:2ba7e30062d333d7a42500</string>
 </dict>
